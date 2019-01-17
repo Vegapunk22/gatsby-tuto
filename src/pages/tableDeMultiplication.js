@@ -1,6 +1,5 @@
 import React, {Component} from 'react' 
-import Link from 'gatsby-link'
-import Layout from '../components/layout'
+import Layout from '../components/Layout'
 
 class Table extends Component {
     state={
